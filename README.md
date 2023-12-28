@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Zhitong Gao. I am a final-year master’s student in Computer Science at ShanghaiTech University. Currently, I am also a visiting student at EPFL Computer Vision Lab. 
+My name is Zhitong Gao. I am a final-year master’s student in Computer Science at ShanghaiTech University PLUS Lab. Currently, I am also a visiting student at EPFL Computer Vision Lab. 
 - 🔭 I’m currently working on constructing robust and safe structure-prediction models under uncertainty.
 - 🌱 I’m currently learning uncertainty estimation, open-world learning, probabilistic modeling, optimal transport, etc.
 - 👯 I am always open to collaborating on projects and innovative research. Feel free to reach out for any exciting opportunities!
