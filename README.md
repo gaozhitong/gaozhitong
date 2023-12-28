@@ -1,4 +1,10 @@
 ### Hi there 👋
+Hi there 👋
+
+My name is Zhitong Gao. I am a final-year master’s student in Computer Science at ShanghaiTech University. Currently, I am also a visiting student at EPFL Computer Vision Lab. 
+🔭 I’m currently working on constructing robust and safe structure-prediction models under uncertainty.
+🌱 I am always open to collaborating on projects and innovative research. Feel free to reach out for any exciting opportunities!
+👀 For more about my work, visit my homepage: [https://gaozhitong.github.io/](https://gaozhitong.github.io/).
 
 <!--
 **gaozhitong/gaozhitong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
