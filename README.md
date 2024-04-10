@@ -1,9 +1,11 @@
 ### Hi there 👋
-My name is Zhitong Gao. I am a final-year master’s student in Computer Science at ShanghaiTech University PLUS Lab. Currently, I am also a visiting student at EPFL Computer Vision Lab. 
-- 🔭 My current work focus on constructing robust and safe structure-prediction models under uncertainty.
-- 🌱 I’m learning uncertainty estimation, open-world learning, probabilistic modeling, optimal transport, etc.
-- 👯 I am always open to collaborating on projects and innovative research. Feel free to reach out for any exciting opportunities!
-- 👀 For more about my work, visit my homepage: [https://gaozhitong.github.io/](https://gaozhitong.github.io/).
+My name is Zhitong Gao. I have a deep passion for unraveling the mysteries of intelligence.
+🌱 Currently, I’m delving into why machine learning models fail and how to address these failures effectively.
+😄 I’m also fascinated by psychology, especially in understanding my own behaviors.
+🔭 I enjoy doing research, painting, reading, swimming, and photography.
+👯 I enjoy connecting with and learning from people.
+
+Feel free to reach out!
 
 <!--
 **gaozhitong/gaozhitong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
