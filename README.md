@@ -1,9 +1,10 @@
 ### Hi there 👋
 My name is Zhitong Gao. I have a deep passion for unraveling the mysteries of intelligence.
-🌱 Currently, I’m delving into why machine learning models fail and how to address these failures effectively.
-😄 I’m also fascinated by psychology, especially in understanding my own behaviors.
-🔭 I enjoy doing research, painting, reading, swimming, and photography.
-👯 I enjoy connecting with and learning from people.
+
+- 🌱 Currently, I’m delving into why machine learning models fail and how to address these failures effectively.
+- 😄 I’m also fascinated by psychology, especially in understanding my own behaviors.
+- 🔭 I enjoy doing research, painting, reading, swimming, and photography.
+- 👯 I enjoy connecting with and learning from people.
 
 Feel free to reach out!
 
