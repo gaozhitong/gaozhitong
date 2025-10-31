@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋
 My name is Zhitong Gao. I have a deep passion for unraveling the mysteries of intelligence.
 
 - 🌱 Currently, I’m working on building generalizable multimodal multitask models.
@@ -8,7 +8,7 @@ My name is Zhitong Gao. I have a deep passion for unraveling the mysteries of in
 
 Feel free to reach out!
 
-<!--
+
 **gaozhitong/gaozhitong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
